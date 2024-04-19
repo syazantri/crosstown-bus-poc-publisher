@@ -13,3 +13,11 @@ b. The url of: “amqp://guest:guest@localhost:5672” is the same as in the sub
 
 c. Running RabbitMQ as message broker.
 ![Commit 3 screen capture](assets/images/commit3.png) 
+
+<br>
+
+d. Sending and processing event.
+![Commit 4 screen capture](assets/images/commit4.png)
+Ini merupakan tampak console ketika menjalankan (```cargo run```) subscriber lalu publisher setelah menggunakan RabbitMQ. Dapat terlihat bahwa saat menjalankan publisher, dia bakal ngirimin 5 event ke message broker yang nantinya bakal diconsume sama subscriber.
+
+<br>
