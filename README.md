@@ -24,4 +24,4 @@ Ini merupakan tampak console ketika menjalankan (```cargo run```) subscriber lal
 
 e. Monitoring chart based on publisher.
 ![Commit 5 screen capture](assets/images/commit5.png)
-Grafik yang terlihat terdapat spikenya adalah grafik Message Rates. Grafik tersebut akan menggambarkan seberapa banyak/cepat message dikirim publisher dalam 1 menit terakhir. Semakin banyak, grafik (spike) nya akan semakin tinggi. Dalam kasus screenshot saya ini memang disetting dalam 1 menit terakhir, tetapi bisa juga disetting untuk range waktu lainnya.
+Grafik yang terlihat terdapat spikenya adalah grafik Message Rates. Grafik tersebut akan menggambarkan seberapa banyak/cepat message dikirim publisher dalam 1 menit terakhir. Semakin banyak, grafik (spike) nya akan semakin tinggi. Dalam kasus screenshot saya ini memang disetting dalam 1 menit terakhir, tetapi bisa juga disetting untuk range waktu lainnya
