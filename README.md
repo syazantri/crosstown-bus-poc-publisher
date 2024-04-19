@@ -7,7 +7,7 @@ a. How many data your publisher program will send to the message broker in one r
 <br>
 
 b. The url of: “amqp://guest:guest@localhost:5672” is the same as in the subscriber program, what does it mean? 
-> Kalau urlnya sama, berarti AMPQ brokernya publisher dan subscriber menggunakan koneksi yang sama, atau bisa dikatakan juga kalau publisher dan subscriber terkoneksi dalam message broker yang sama.
+> Kalau urlnya sama, berarti AMQP brokernya publisher dan subscriber menggunakan koneksi yang sama, atau bisa dikatakan juga kalau publisher dan subscriber terkoneksi dalam message broker yang sama.
 
 <br>
 
